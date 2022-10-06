@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ellaine Fontamillas</h1>
-<h3 align="center">A passionate frontend developer from Lesotho but originally from Philippines</h3>
+<h3 align="center">A passionate frontend developer from Lesotho <img height="12" alt="Lesotho Flag" width="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/800px-Flag_of_Lesotho.svg.png?20220612201742"> but originally from Philippines <img height="12" alt="Philippines Flag" width="18" src="https://www.worldatlas.com/r/w1200/img/flag/ph-flag.jpg"></h3>
 
-<img width="100%" alt="Coding" width="400" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
+<img width="100%" alt="Coding" height="500" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
 - 🌱 I’m currently learning **ReactJS, ReactTS, React Native, etc.**
 
